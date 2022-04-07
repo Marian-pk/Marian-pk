@@ -1,5 +1,5 @@
 ### 
-```bash
+```js
 If I can see it, then I can do it ...
 If I just believe it, there's nothing to it
 ```
