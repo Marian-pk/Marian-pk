@@ -1,8 +1,10 @@
 ### 
-```js
-If I can see it, then I can do it ...
-If I just believe it, there's nothing to it
+```diff
++If I can see it, then I can do it ...
++If I just believe it, there's nothing to it
 ```
+
+
 <!--
 **Marian-pk/Marian-pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
